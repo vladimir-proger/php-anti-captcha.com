@@ -9,5 +9,4 @@ http://getcaptchasolution.com/pwdb6ssgme
 - Получить баланс
 
 Для работы требуется:
-- GuzzleHttp
 - Psr\Log
