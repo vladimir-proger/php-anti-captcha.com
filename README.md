@@ -7,6 +7,3 @@ http://getcaptchasolution.com/pwdb6ssgme
 - reCaptcha2 (Google)
 - Image Captcha
 - Получить баланс
-
-Для работы требуется:
-- Psr\Log
