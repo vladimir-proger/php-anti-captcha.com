@@ -7,5 +7,5 @@ PHP Library for anti-captcha.com
 - Получить баланс
 
 Для работы требуется:
-GuzzleHttp
-Psr\Log
+- GuzzleHttp
+- Psr\Log
